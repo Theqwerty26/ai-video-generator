@@ -1,0 +1,75 @@
+[
+  {
+    "id": "1752938187138",
+    "name": "Yeni Sayfa",
+    "slug": "yeni-sayfa",
+    "elements": [
+      {
+        "id": "1752938188158",
+        "type": "text",
+        "content": {
+          "text": "Yeni metin"
+        },
+        "styles": {
+          "fontSize": "16px",
+          "color": "#000000"
+        }
+      },
+      {
+        "id": "1752938188855",
+        "type": "image",
+        "content": {
+          "src": "",
+          "alt": "Görsel"
+        },
+        "styles": {
+          "maxWidth": "300px",
+          "height": "auto"
+        }
+      },
+      {
+        "id": "1752938189785",
+        "type": "video",
+        "content": {
+          "src": ""
+        },
+        "styles": {
+          "maxWidth": "400px",
+          "height": "auto"
+        }
+      },
+      {
+        "id": "1752938190512",
+        "type": "button",
+        "content": {
+          "text": "Buton",
+          "link": "#"
+        },
+        "styles": {
+          "padding": "10px 20px",
+          "backgroundColor": "#000000",
+          "color": "#ffffff",
+          "border": "none",
+          "borderRadius": "4px"
+        }
+      },
+      {
+        "id": "1752938191240",
+        "type": "html",
+        "content": {
+          "html": "<p>HTML içeriği</p>"
+        },
+        "styles": {}
+      }
+    ],
+    "settings": {
+      "title": "Yeni Sayfa",
+      "description": "",
+      "keywords": "",
+      "customCSS": "",
+      "customJS": ""
+    },
+    "updatedAt": "2025-07-19T15:16:41.006Z",
+    "createdAt": "2025-07-19T15:16:40.433Z"
+  }
+]
