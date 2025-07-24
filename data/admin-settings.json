@@ -1,0 +1,34 @@
+{
+  "settings": {
+    "siteTitle": "TimeAIVideo",
+    "siteDescription": "Create amazing videos with AI",
+    "metaKeywords": "ai, video, generator, artificial intelligence",
+    "googleAnalytics": "",
+    "googleSearchConsole": "",
+    "yandexMetrica": "",
+    "logo": "",
+    "favicon": "",
+    "primaryColor": "#000000",
+    "secondaryColor": "#ffffff"
+  },
+  "apiKeys": {
+    "openai": "",
+    "runway": "",
+    "googleTTS": "",
+    "soundraw": "",
+    "openrouter": "",
+    "stripe": "",
+    "paypal": "",
+    "iyzico": "",
+    "paytr": "",
+    "smtp": {
+      "host": "",
+      "port": "587",
+      "username": "",
+      "password": ""
+    },
+    "whatsapp": "",
+    "sms": ""
+  },
+  "updatedAt": "2025-07-19T15:15:57.269Z"
+}
